@@ -1,3 +1,4 @@
 # cose1
-this is practice in git
-auther - SHASHIKUMAR
+This is my practice Repository.
+Auther - SHASHIKANT KUMAR
+
